@@ -32,7 +32,7 @@ const ControlPresupuesto = ({gastos,presupuesto}) => {
         <div>
            <CircularProgressbar
            styles={buildStyles({
-                pathColor:'#3B8F62',
+                pathColor:'#3B82F6',
                 trailColor: '#F5F5F5',
                 textColor:'#3B82F6'
            })}
